@@ -2,7 +2,7 @@
   "name": "mapgl-rostov-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/mapgl-rostov-app",
+  "homepage": "https://r0mbaa.github.io/geoinformation-technologies-lab-7",
   "dependencies": {
     "@2gis/mapgl": "^1.66.0",
     "@types/geojson": "^7946.0.14",
