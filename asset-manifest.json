@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/geoinformation-technologies-lab-7/static/js/main.ba1457d9.js",
+    "main.js": "/geoinformation-technologies-lab-7/static/js/main.ce5f58fd.js",
     "index.html": "/geoinformation-technologies-lab-7/index.html",
-    "main.ba1457d9.js.map": "/geoinformation-technologies-lab-7/static/js/main.ba1457d9.js.map"
+    "main.ce5f58fd.js.map": "/geoinformation-technologies-lab-7/static/js/main.ce5f58fd.js.map"
   },
   "entrypoints": [
-    "static/js/main.ba1457d9.js"
+    "static/js/main.ce5f58fd.js"
   ]
 }
