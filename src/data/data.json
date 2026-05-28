@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.720349, 47.222531] },
+      "properties": {
+        "id": 1001,
+        "category": "Наезд на пешехода",
+        "severity": "Легкий",
+        "weather": ["Ясно"],
+        "datetime": "2023-05-14 18:25:00",
+        "address": "г Ростов-на-Дону, Большая Садовая ул, 47",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.701505, 47.235713] },
+      "properties": {
+        "id": 1002,
+        "category": "Столкновение",
+        "severity": "Тяжёлый",
+        "weather": ["Пасмурно"],
+        "datetime": "2023-06-21 22:10:00",
+        "address": "г Ростов-на-Дону, пр-кт Ворошиловский, 60",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7378, 47.2192] },
+      "properties": {
+        "id": 1003,
+        "category": "Наезд на препятствие",
+        "severity": "Легкий",
+        "weather": ["Дождь"],
+        "datetime": "2023-09-02 07:45:00",
+        "address": "г Ростов-на-Дону, ул Текучева, 234",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.6892, 47.2461] },
+      "properties": {
+        "id": 1004,
+        "category": "Столкновение",
+        "severity": "Легкий",
+        "weather": ["Ясно"],
+        "datetime": "2023-04-11 14:20:00",
+        "address": "г Ростов-на-Дону, ул Закруткина, 67",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7102, 47.2289] },
+      "properties": {
+        "id": 1005,
+        "category": "Падение пассажира",
+        "severity": "Легкий",
+        "weather": ["Ясно"],
+        "datetime": "2023-07-08 10:05:00",
+        "address": "г Ростов-на-Дону, пр-кт Буденновский, 25",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7251, 47.2334] },
+      "properties": {
+        "id": 1006,
+        "category": "Наезд на пешехода",
+        "severity": "Тяжёлый",
+        "weather": ["Снег"],
+        "datetime": "2023-01-15 19:50:00",
+        "address": "г Ростов-на-Дону, ул Пушкинская, 102",
+        "region": "Ростовская область",
+        "dead_count": 1,
+        "injured_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7445, 47.2127] },
+      "properties": {
+        "id": 1007,
+        "category": "Столкновение",
+        "severity": "Легкий",
+        "weather": ["Пасмурно"],
+        "datetime": "2023-10-30 08:30:00",
+        "address": "г Ростов-на-Дону, пр-кт Шолохова, 14",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.6783, 47.2531] },
+      "properties": {
+        "id": 1008,
+        "category": "Опрокидывание",
+        "severity": "Тяжёлый",
+        "weather": ["Туман"],
+        "datetime": "2023-03-25 03:15:00",
+        "address": "г Ростов-на-Дону, ул Малиновского, 88",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7156, 47.2401] },
+      "properties": {
+        "id": 1009,
+        "category": "Наезд на пешехода",
+        "severity": "Легкий",
+        "weather": ["Ясно"],
+        "datetime": "2023-08-19 17:00:00",
+        "address": "г Ростов-на-Дону, ул Соколова, 50",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7321, 47.2273] },
+      "properties": {
+        "id": 1010,
+        "category": "Столкновение",
+        "severity": "Легкий",
+        "weather": ["Ясно"],
+        "datetime": "2023-11-04 12:40:00",
+        "address": "г Ростов-на-Дону, ул Красноармейская, 158",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.6952, 47.2189] },
+      "properties": {
+        "id": 1011,
+        "category": "Наезд на пешехода",
+        "severity": "Легкий",
+        "weather": ["Пасмурно"],
+        "datetime": "2023-02-28 21:20:00",
+        "address": "г Ростов-на-Дону, ул Социалистическая, 75",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7068, 47.2511] },
+      "properties": {
+        "id": 1012,
+        "category": "Столкновение",
+        "severity": "Тяжёлый",
+        "weather": ["Дождь"],
+        "datetime": "2023-12-12 23:55:00",
+        "address": "г Ростов-на-Дону, ул Нансена, 144",
+        "region": "Ростовская область",
+        "dead_count": 1,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7489, 47.2356] },
+      "properties": {
+        "id": 1013,
+        "category": "Наезд на препятствие",
+        "severity": "Легкий",
+        "weather": ["Ясно"],
+        "datetime": "2023-06-03 15:10:00",
+        "address": "г Ростов-на-Дону, ул Доватора, 240",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7193, 47.2076] },
+      "properties": {
+        "id": 1014,
+        "category": "Столкновение",
+        "severity": "Легкий",
+        "weather": ["Ясно"],
+        "datetime": "2023-07-22 11:25:00",
+        "address": "г Ростов-на-Дону, ул Станиславского, 90",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7615, 47.2298] },
+      "properties": {
+        "id": 1015,
+        "category": "Наезд на пешехода",
+        "severity": "Тяжёлый",
+        "weather": ["Пасмурно"],
+        "datetime": "2023-03-09 06:50:00",
+        "address": "г Ростов-на-Дону, пр-кт 40-летия Победы, 25",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7012, 47.2207] },
+      "properties": {
+        "id": 1016,
+        "category": "Столкновение",
+        "severity": "Легкий",
+        "weather": ["Ясно"],
+        "datetime": "2023-09-17 09:35:00",
+        "address": "г Ростов-на-Дону, ул Тургеневская, 49",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7411, 47.2188] },
+      "properties": {
+        "id": 1017,
+        "category": "Падение пассажира",
+        "severity": "Легкий",
+        "weather": ["Ясно"],
+        "datetime": "2023-05-29 13:45:00",
+        "address": "г Ростов-на-Дону, ул Нагибина, 32",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.6841, 47.2398] },
+      "properties": {
+        "id": 1018,
+        "category": "Опрокидывание",
+        "severity": "Тяжёлый",
+        "weather": ["Снег"],
+        "datetime": "2023-01-30 02:30:00",
+        "address": "г Ростов-на-Дону, ул Малиновского, 16",
+        "region": "Ростовская область",
+        "dead_count": 1,
+        "injured_count": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7287, 47.2456] },
+      "properties": {
+        "id": 1019,
+        "category": "Столкновение",
+        "severity": "Легкий",
+        "weather": ["Пасмурно"],
+        "datetime": "2023-10-08 16:15:00",
+        "address": "г Ростов-на-Дону, пр-кт Михаила Нагибина, 38",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [39.7129, 47.2148] },
+      "properties": {
+        "id": 1020,
+        "category": "Наезд на пешехода",
+        "severity": "Легкий",
+        "weather": ["Ясно"],
+        "datetime": "2023-08-04 20:05:00",
+        "address": "г Ростов-на-Дону, ул Горького, 145",
+        "region": "Ростовская область",
+        "dead_count": 0,
+        "injured_count": 1
+      }
+    }
+  ]
+}
